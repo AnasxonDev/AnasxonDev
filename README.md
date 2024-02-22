@@ -1,9 +1,9 @@
 # Hey, I'm Anasxon Qulijonov! 👋
 
-I'm a Junior Front-End Developer based in Kokand, Fergana Region, Uzbekistan. I specialize in creating seamless UI/UX interfaces using HTML, CSS, and JavaScript. Here's a bit more about me:
+I'm a Junior Front-End Developer based in Kokand, Fergana Region, Uzbekistan. I create seamless UI/UX interfaces. Here's a bit more about me:
 
-- 🎂 **Birth Date:** 08/04/2008
 - 🏡 **Location:** Kokand, Fergana Region, Uzbekistan
+- lang **Languages:** Uzbek (native), English (intermediate)
 
 ## Skills
 
@@ -11,7 +11,7 @@ I'm a Junior Front-End Developer based in Kokand, Fergana Region, Uzbekistan. I 
 - CSS
 - JavaScript
 - Git
-- Tailwind
+- Tailwind CSS
 - React
 
 ## Open to Work
