@@ -28,4 +28,4 @@ Let's connect and explore potential collaborations!
 
 ## Contact Info
 
-- LinkedIn: [Anasxon Qulijonov](www.linkedin.com/in/anasxon)
+- LinkedIn: [Anasxon Qulijonov](https://www.linkedin.com/in/anasxon)
