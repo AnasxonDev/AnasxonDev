@@ -25,7 +25,3 @@ I'm currently open to exciting opportunities in Frontend Development, React Deve
 🌟 I thrive on challenges and love to stay updated with the latest trends and technologies in the ever-evolving world of web development.
 
 Let's connect and explore potential collaborations!
-
-## Contact Info
-
-- LinkedIn: [Anasxon Qulijonov](https://www.linkedin.com/in/anasxon)
