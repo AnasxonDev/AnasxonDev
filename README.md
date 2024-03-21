@@ -10,6 +10,7 @@ I'm a Junior Front-End Developer based in Kokand, Fergana Region, Uzbekistan. I 
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - Git
 - Tailwind CSS
 - React
