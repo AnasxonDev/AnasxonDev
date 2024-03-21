@@ -21,7 +21,7 @@ I'm currently open to exciting opportunities in Frontend Development, React Deve
 
 ## About Me
 
-🚀 Passionate about web development, I'm proficient in HTML, CSS, and JavaScript, with solid experience in Git and an intermediate level in React JS and Tailwind CSS.
+🚀 Passionate about web development, I'm proficient in HTML, CSS, and JavaScript, with solid experience in Git and an intermediate level in React JS, TypeScript and Tailwind CSS.
 
 🌟 I thrive on challenges and love to stay updated with the latest trends and technologies in the ever-evolving world of web development.
 
