@@ -3,7 +3,7 @@
 I'm a Junior Front-End Developer based in Kokand, Fergana Region, Uzbekistan. I create seamless UI/UX interfaces. Here's a bit more about me:
 
 - 🏡 **Location:** Kokand, Fergana Region, Uzbekistan
-- lang **Languages:** Uzbek (native), English (intermediate)
+- **Languages:** Uzbek (native), English (intermediate)
 
 ## Skills
 
@@ -13,7 +13,8 @@ I'm a Junior Front-End Developer based in Kokand, Fergana Region, Uzbekistan. I 
 - TypeScript
 - Git
 - Tailwind CSS
-- React
+- React JS
+- Next JS
 
 ## Open to Work
 
