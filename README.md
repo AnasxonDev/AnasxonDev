@@ -1,8 +1,8 @@
 # Hey, I'm Anasxon Qulijonov! 👋
 
-I'm a Junior Front-End Developer based in Kokand, Fergana Region, Uzbekistan. I create seamless UI/UX interfaces. Here's a bit more about me:
+I'm a Junior Full-Stack Developer based in Kokand, Fergana Region, Uzbekistan. I create seamless UI/UX interfaces. Here's a bit more about me:
 
-- 🏡 **Location:** Kokand, Fergana Region, Uzbekistan
+- **Location:** Kokand, Fergana Region, Uzbekistan
 - **Languages:** Uzbek (native), English (intermediate)
 
 ## Skills
